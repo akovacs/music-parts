@@ -2,6 +2,7 @@
 {-# LANGUAGE CPP                  #-}
 {-# LANGUAGE FlexibleInstances    #-}
 {-# LANGUAGE TypeSynonymInstances #-}
+{-# LANGUAGE OverlappingInstances #-}
 
 module Music.Parts.Internal.Data (
   SoundId,
